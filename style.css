@@ -191,7 +191,7 @@ nav.scrolled {
   color: var(--white);
 }
 
-.company-name.hubspot { color: #FF7A59; }
+.company-name.hubspot { color: #FF4800; }
 
 .company-sentence {
   font-size: clamp(0.95rem, 1.3vw, 1.1rem);
